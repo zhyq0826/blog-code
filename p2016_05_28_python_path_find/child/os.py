@@ -1,0 +1,1 @@
+print 'I am os in child dir'
